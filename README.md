@@ -1,4 +1,4 @@
-# heart_disease_prediction
+# Heart Disease Prediction
 ![](Screenshot_1.png)
  
 ## Introduction
