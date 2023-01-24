@@ -43,6 +43,6 @@ And StandarScaler to try to improve each above model
 
 ## Conclusion
 
-According to the Classification Report, there is no big diference by using StandardScaler. Only KNeighbors has improved from 60.34 to 77.59 (Models not based on `DecisionTreeClassifiers` are benefited)
+According to the Classification Report, there is no big diference by using StandardScaler. Only KNeighbors has shown significant change from 60.34 to 77.59 (as models not based on `DecisionTreeClassifiers` are benefited)
 
 `LogisticRegression` brought the best result to predict if a person has or not heart disease.
