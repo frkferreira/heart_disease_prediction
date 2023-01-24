@@ -5,7 +5,7 @@
 
 1. This project is based on the dataset Heart Desease from UCI Machine Learning Repository and intends to predict if a person has or not heart desease. This would help in early detection of heart disease and hopefully serve as an aid in prevention of disease.
 
-2. The dataset was collected from Kaggle (https://www.kaggle.com/ronitf/heart-disease-uci)
+2. The dataset was collected from Kaggle (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 ## Dataset
 This dataset contains information as related below and states the presence or not of heart disease.One of the most important column is 'target' which shows if an individuo has or not heart disease:
